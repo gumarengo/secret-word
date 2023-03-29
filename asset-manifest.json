@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/secret-word/static/css/main.bc7f9479.css",
+    "main.js": "/secret-word/static/js/main.bc7b7f3b.js",
+    "static/js/787.e4ce4824.chunk.js": "/secret-word/static/js/787.e4ce4824.chunk.js",
+    "static/media/silvio.png": "/secret-word/static/media/silvio.a6c63cfaeda1324e66dd.png",
+    "index.html": "/secret-word/index.html",
+    "main.bc7f9479.css.map": "/secret-word/static/css/main.bc7f9479.css.map",
+    "main.bc7b7f3b.js.map": "/secret-word/static/js/main.bc7b7f3b.js.map",
+    "787.e4ce4824.chunk.js.map": "/secret-word/static/js/787.e4ce4824.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc7f9479.css",
+    "static/js/main.bc7b7f3b.js"
+  ]
+}
